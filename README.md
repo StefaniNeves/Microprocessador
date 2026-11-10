@@ -1,6 +1,6 @@
 
 
-# Projeto de Processador em Arquitetura Monociclo
+# Projeto de Processador em Arquitetura Monociclo ( Trabalho desenvolvido em equipe- Stéfani e Manuela)
 
 ## Sobre o projeto
 
